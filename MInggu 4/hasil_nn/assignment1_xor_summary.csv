@@ -1,0 +1,16 @@
+activation,hidden_units,final_mse,accuracy
+logistic,2,0.0,1.0
+logistic,3,0.0,1.0
+logistic,5,0.0,1.0
+logistic,7,0.0,1.0
+tanh,3,0.0,1.0
+relu,7,0.0,1.0
+tanh,7,0.0,1.0
+tanh,5,0.0,1.0
+relu,3,0.0,1.0
+relu,2,0.25,0.75
+logistic,1,0.25,0.75
+tanh,1,0.25,0.75
+tanh,2,0.5,0.5
+relu,1,0.5,0.5
+relu,5,0.5,0.5
